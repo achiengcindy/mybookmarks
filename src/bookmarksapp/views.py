@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 #from django.contrib.auth.models import User
+from models import User
 from django.shortcuts import get_object_or_404, redirect, render
 
 from .models import Bookmark
+
 
 
 def bookmark_list(request):

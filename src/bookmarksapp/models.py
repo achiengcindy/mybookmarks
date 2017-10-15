@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 # encoding: utf-8
-from django.contrib.auth.models import User
+#from django.contrib.auth.models import User
+from django.contrib.auth import get_user_model
+User=get_user_model()
 from django.db import models
 from django.utils.encoding import python_2_unicode_compatible
 from django.utils.timezone import now
