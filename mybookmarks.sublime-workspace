@@ -1,0 +1,413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"django"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "myenv/src/bookmarksapp/urls.py",
+			"settings":
+			{
+				"buffer_size": 551,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "myenv/src/bookmarksapp/views.py",
+			"settings":
+			{
+				"buffer_size": 2054,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "myenv/src/bookmarksapp/templates/bookmarksapp/forms.html",
+			"settings":
+			{
+				"buffer_size": 695,
+				"line_ending": "Unix",
+				"name": "{% extends \"base.html\" %}"
+			}
+		},
+		{
+			"file": "myenv/src/templates/toggle_login.html",
+			"settings":
+			{
+				"buffer_size": 1056,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "myenv/src/bookmarksapp/templates/bookmarksapp/bookmark.html",
+			"settings":
+			{
+				"buffer_size": 796,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/root/Desktop/mybookmarks/myenv/src",
+		"/root/Desktop/mybookmarks/myenv/src/bookmarksapp",
+		"/root/Desktop/mybookmarks/myenv/src/bookmarksapp/templates",
+		"/root/Desktop/mybookmarks/myenv/src/bookmarksapp/templates/bookmarksapp",
+		"/root/Desktop/mybookmarks/myenv/src/templates"
+	],
+	"file_history":
+	[
+		"/root/Desktop/mybookmarks/.git/COMMIT_EDITMSG",
+		"/root/Desktop/bookmarksmanager/myenv/src/bookmarksapp/views.py",
+		"/root/Desktop/bookmarksmanager/myenv/src/bookmarksapp/models.py",
+		"/root/Desktop/mybookmarks/myenv/src/bookmarksapp/forms.py",
+		"/root/Desktop/bookmarksmanager/myenv/src/bookmarksapp/urls.py",
+		"/root/Desktop/bookmarksmanager/myenv/src/mysite/urls.py",
+		"/root/Desktop/bookmarksmanager/myenv/src/templates/toggle_login.html",
+		"/root/Desktop/bookmarksmanager/myenv/.git/COMMIT_EDITMSG",
+		"/root/Desktop/bookmarksmanager/myenv/src/templates/base.html",
+		"/root/Desktop/BookmarkManager/bookmarkapp/bookmarkapp/settings.py",
+		"/root/Desktop/.git/COMMIT_EDITMSG",
+		"/root/Desktop/bookmarksmanager/myenv/src/mysite/settings.py",
+		"/root/Desktop/MyDjango/ecommercewebsite/MyDjango/urls.py",
+		"/root/Desktop/MyDjango/ecommercewebsite/profiles/admin.py",
+		"/root/Desktop/MyDjango/ecommercewebsite/profiles/views.py",
+		"/root/Desktop/MyDjango/ecommercewebsite/profiles/models.py",
+		"/root/Desktop/bookmarksmanager/myenv/src/templates/login.html",
+		"/root/Desktop/bookmarksmanager/myenv/src/bookmarksapp/migrations/__init__.py",
+		"/root/Desktop/bookmarksmanager/myenv/src/makemigrations/__init__.py",
+		"/root/Desktop/bookmarksmanager/myenv/src/bookmarksapp/migrations/0001_initial.py",
+		"/root/Desktop/myproj/src/bookmarks/models.py",
+		"/root/Desktop/bookmarksmanager/myenv/src/bookmarksapp/templates/bookmarksapp/bookmark.html",
+		"/root/Desktop/bookmarksmanager/myenv/src/bookmarksapp/templates/bookmarksapp/bookmark_list.html",
+		"/root/Desktop/bookmarksmanager/myenv/src/bookmarksapp/templates/bookmarksapp/bookmark_user.html",
+		"/root/Desktop/bookmarksmanager/myenv/src/bookmarksapp/apps.py",
+		"/root/Desktop/myproj/src/bookmarks/url.py",
+		"/root/Desktop/myproj/src/bookmarks/apps.py",
+		"/root/Desktop/myproj/src/bookmarks/admin.py",
+		"/root/Desktop/bookmarksmanager/myenv/src/bookmarks/urls.py",
+		"/root/Desktop/bookmarksmanager/myenv/src/bookmarks/views.py",
+		"/root/Desktop/bookmarksmanager/myenv/src/bookmarks/templates/bookmark_list.html",
+		"/root/Desktop/bookmarksmanager/myenv/src/bookmarks/templates/bookmark_user.html",
+		"/root/Desktop/bookmarksmanager/myenv/src/bookmarks/templates/bookmark.html",
+		"/root/Desktop/myproj/src/mysite/settings.py",
+		"/root/Desktop/myproj/src/bookmarks/views.py",
+		"/root/Desktop/myproj/src/manage.py",
+		"/root/Desktop/myproj/src/mysite/wsgi.py",
+		"/root/Desktop/myproj/src/mysite/urls.py",
+		"/root/Desktop/myproj/templates/base.html",
+		"/root/Desktop/MyDjango/ecommercewebsite/profiles/apps.py",
+		"/root/Desktop/MyDjango/ecommercewebsite/MyDjango/settings.py",
+		"/root/Desktop/bookmarksmanager/.git/COMMIT_EDITMSG",
+		"/root/Desktop/bookmarksmanager/myenv/src/bookmarks/admin.py",
+		"/root/Desktop/bookmarksmanager/myenv/src/bookmarks/models.py"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "myenv/src/bookmarksapp/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 551,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "myenv/src/bookmarksapp/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1028,
+								1028
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 237.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "myenv/src/bookmarksapp/templates/bookmarksapp/forms.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								299,
+								299
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{% extends \"base.html\" %}",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "myenv/src/templates/toggle_login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								733,
+								733
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "myenv/src/bookmarksapp/templates/bookmarksapp/bookmark.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								796,
+								796
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "mybookmarks.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
